@@ -111,7 +111,8 @@ Generated insights to improve engagement and conversion rates.
 
 ---
    📁 Repository Structure
-
+```
+Alfido-Tech-Internship/
 ├── Customer-Behaviour-Analysis/
 │   ├── Customer_Behavior_Analysis.ipynb
 │   ├── customer_behaviour.csv
@@ -136,6 +137,7 @@ Generated insights to improve engagement and conversion rates.
 │   ├── Website Traffic Analysis Report.pdf
 │
 └── README.md
+```
 
 # 📈 Final Conclusion
 
